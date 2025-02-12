@@ -1,12 +1,24 @@
-## Hi there 👋
+# 👋 Welcome to DeputyMods!
 
-<!--
+🚔 **DeputyMods** is a dedicated **GTA 5 modding team** creating high-quality mods for both **FiveM** and **Story Mode**. We specialize in **map design, scripting, and configuration edits** to enhance your GTA 5 experience.
 
-**Here are some ideas to get you started:**
+## 🛠️ What We Do
+- 🏙️ **FiveM & Story Mode YMAPs** – Custom environments and map edits.
+- 🖥️ **FiveM Scripts** – Enhancing roleplay and server functionality.
+- 📜 **SHVDN Scripts** – Single-player script modifications.
+- ⚙️ **Config Edits** – Tweaks for our mods and third-party mods.
+- 📝 **XML Edits** – Vehicle and environment modifications.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔗 Connect With Us
+🌍 **Website:** [DeputyMods.com](https://www.deputymods.com)  
+💬 **Discord:** [Join Us](https://discord.gg/D3ruwr8dbA)  
+🔹 **GTA Police Mods Profile:** [DeputyMods](https://gtapolicemods.com/profile/71-deputymods/)  
+🔹 **LCPDFR/LSPDFR Profile:** [DeputyMods](https://www.lcpdfr.com/profile/611746-deputymods/)  
+
+## 🤝 Get Involved
+🔹 Have a suggestion or a request? Open an issue!  
+🔹 Want to contribute? Fork the repo and submit a pull request!  
+🔹 Need help? Reach out to us on Discord!  
+
+
+⚡ *Stay tuned for updates and new releases!*
