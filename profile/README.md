@@ -10,7 +10,7 @@
 - 📝 **XML Edits** – Vehicle and environment modifications.
 
 ## 🔗 Connect With Us
-🌍 **Website:** [DeputyMods.com](https://www.deputymods.com)  
+🌍 **Website:** [DeputyMods.com](https://deputymods.com)  
 💬 **Discord:** [Join Us](https://discord.gg/D3ruwr8dbA)  
 🔹 **GTA Police Mods Profile:** [DeputyMods](https://gtapolicemods.com/profile/71-deputymods/)  
 🔹 **LCPDFR/LSPDFR Profile:** [DeputyMods](https://www.lcpdfr.com/profile/611746-deputymods/)  
