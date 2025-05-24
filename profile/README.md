@@ -32,7 +32,7 @@ We do not create scenario logic or complex frameworks — only stable, standalon
 
 These are the projects currently driving public development:
 
-- [`Urban Pulse: World Reimagined`]([https://github.com/SantosMods/UrbanPulse](https://github.com/SantosMods/Urban-Pulse_World-Reimagined))
+- [`Urban Pulse: World Reimagined`](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
 
 ---
 
@@ -40,7 +40,8 @@ These are the projects currently driving public development:
 
 | Goal                          | Description                                                   | Target       |
 |------------------------------|---------------------------------------------------------------|--------------|
-| Launch `Urban Pulse Alpha`   | Modular city grid and core layout structure                   | May 2025      |
+| Launch `Urban Pulse: World Reimagined
+`   | Modular city grid and core layout structure                   | May 2025      |
 
 ---
 
