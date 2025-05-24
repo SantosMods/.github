@@ -32,7 +32,7 @@ We do not create scenario logic or complex frameworks — only stable, standalon
 
 These are the projects currently driving public development:
 
-- [`UrbanPulse`](https://github.com/SantosMods/UrbanPulse): Core YMAP rework series across Los Santos  
+- [`Urban Pulse: World Reimagined`]([https://github.com/SantosMods/UrbanPulse](https://github.com/SantosMods/Urban-Pulse_World-Reimagined))
 
 ---
 
