@@ -40,8 +40,7 @@ These are the projects currently driving public development:
 
 | Goal                          | Description                                                   | Target       |
 |------------------------------|---------------------------------------------------------------|--------------|
-| Launch `Urban Pulse: World Reimagined
-`   | Modular city grid and core layout structure                   | May 2025      |
+| Launch `Urban Pulse: World Reimagined` | Launch the V1 of `Urban Pulse: World Reimagined` | May - Mid June |
 
 ---
 
