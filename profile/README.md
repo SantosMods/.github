@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-blue" />
-  <img src="https://img.shields.io/badge/main_project-Urban_Pulse-critical" />
+  <img src="https://img.shields.io/badge/main_project-UrbanPlus: World Reimagined-critical" />
   <img src="https://img.shields.io/badge/fivem-compatible-success" />
   <img src="https://img.shields.io/badge/enforcement-strict-red" />
 </p>
@@ -32,7 +32,7 @@ We do not create scenario logic or complex frameworks — only stable, standalon
 
 These are the projects currently driving public development:
 
-- [`Urban Pulse: World Reimagined`](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
+- [`UrbanPlus: World Reimagined`](https://github.com/SantosMods/UrbanPlus_World-Reimagined)
 
 ---
 
@@ -40,7 +40,7 @@ These are the projects currently driving public development:
 
 | Goal                          | Description                                                   | Target       |
 |------------------------------|---------------------------------------------------------------|--------------|
-| Launch `Urban Pulse: World Reimagined` | Launch the V1 of `Urban Pulse: World Reimagined` | May - Mid June |
+| Launch `UrbanPlus: World Reimagined` | Launch the V1 of `UrbanPlus: World Reimagined` | May - Mid June |
 
 ---
 
