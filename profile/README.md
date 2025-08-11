@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://santosmods.dev">Website</a> |
-  <a href="https://discord.gg/Zaa74kYNxG">Discord</a> |
-  <a href="https://santoshosting.dev">Hosting</a>
+  <a href="https://links.santosmods.dev/discord">Discord</a> |
 </p>
 
 <p align="center">
@@ -40,7 +39,7 @@ These are the projects currently driving public development:
 
 | Goal                          | Description                                                   | Target       |
 |------------------------------|---------------------------------------------------------------|--------------|
-| Launch `UrbanPlus: World Reimagined` | Launch the V1 of `UrbanPlus: World Reimagined` | May - Mid June |
+| Launch `UrbanPlus: World Reimagined` | Launch the V1 of `UrbanPlus: World Reimagined` | Q2 - 2026 |
 
 ---
 
@@ -68,13 +67,5 @@ These are the projects currently driving public development:
 - Enforcement handled via GitHub DMCA, Discord reports, and domain bans  
 - All files undergo internal review before publication  
 - Verified takedowns issued within 24 hours of confirmed abuse
-
----
-
-## Contact
-
-- [Website](https://santosmods.dev)  
-- [Discord Community](https://discord.gg/Zaa74kYNxG)  
-- [Hosting by SantosHosting.dev](https://santoshosting.dev)
 
 ---
