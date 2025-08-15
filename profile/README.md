@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://santosmods.dev">Website</a> |
-  <a href="https://links.santosmods.dev/discord">Discord</a> |
+  <a href="https://links.santosmods.dev/discord">Discord</a> 
 </p>
 
 <p align="center">
