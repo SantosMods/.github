@@ -22,32 +22,49 @@
 
 ## About
 **SantosMods.dev** is a policy-driven GTA V modification organization focused on:
-- Stability-first YMAP development
-- Infrastructure-grade deployments (Ubuntu, Node.js, Pterodactyl)
-- Internal tooling for enforcement, developer trust, and scale
+- Stability-first YMAP development  
+- Infrastructure-grade deployments (Ubuntu, Node.js, Pterodactyl)  
+- Internal tooling for enforcement, developer trust, and scale  
 
 We ship standalone, optimized resources built for long-term RP ecosystems.
 
 ---
 
 ## Featured Repository
-- [`UrbanPlus: World Reimagined`](https://github.com/SantosMods/UrbanPlus_World-Reimagined)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantosMods&repo=UrbanPlus_World-Reimagined&theme=dark" alt="UrbanPlus pinned card" />
-</p>
+- `UrbanPlus: World Reimagined`
 
 ---
 
-## Organization Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SantosMods/.github/refs/heads/main/workflows/metrics.yml" alt="SantosMods organization metrics" />
-</p>
+## Roadmap
+
+| Goal                          | Description                                  | Target |
+|-------------------------------|----------------------------------------------|--------|
+| UrbanPlus V1                  | Public launch of `UrbanPlus: World Reimagined` | Q2 2026 |
+| Enforcement Suite             | Expand takedown & licensing utilities        | Ongoing |
+| Docs Portal                   | Full GitBook-style documentation             | Q4 2025 |
+
+---
+
+## Development Scope
+
+<details>
+<summary>Mapping (YMAP)</summary>
+
+- High-performance static map design  
+- Modular layouts for targeted RP environments  
+</details>
+
+<details>
+<summary>EUP Texturing (Experimental)</summary>
+
+- Internal-use tactical & patrol textures  
+- Future controlled releases under license  
+</details>
 
 ---
 
 ## Policy & Enforcement
-- Redistribution, resale, or cloning is prohibited
-- Enforcement via GitHub DMCA, Discord reports, and domain bans
-- All files undergo internal review before release
+- Redistribution, resale, or cloning is prohibited  
+- Enforcement via GitHub DMCA, Discord reports, and domain bans  
+- All files undergo internal review before release  
 - Verified takedowns within 24 hours of confirmed abuse
