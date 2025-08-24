@@ -41,7 +41,7 @@ We ship standalone, optimized resources built for long-term RP ecosystems.
 
 ## Organization Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SantosMods/.github/refs/heads/main/workflows/metrics" alt="SantosMods organization metrics" />
+  <img src="https://raw.githubusercontent.com/SantosMods/.github/refs/heads/main/workflows/metrics.yml" alt="SantosMods organization metrics" />
 </p>
 
 ---
