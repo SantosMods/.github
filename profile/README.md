@@ -11,13 +11,6 @@
   <a href="https://docs.santosmods.dev">Docs</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-blue" />
-  <img src="https://img.shields.io/badge/main_project-UrbanPlus: World Reimagined-critical" />
-  <img src="https://img.shields.io/badge/fivem-compatible-success" />
-  <img src="https://img.shields.io/badge/enforcement-strict-red" />
-</p>
-
 ---
 
 ## About
