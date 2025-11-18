@@ -32,9 +32,9 @@ We ship standalone, optimized resources built for long-term RP ecosystems.
 
 | Goal                          | Description                                  | Target |
 |-------------------------------|----------------------------------------------|--------|
+| Docs Portal         | Full GitBook-style documentation              | [Compleat](https://docs.santosmods.dev) |
 | UrbanPlus V1                  | Public launch of `UrbanPlus: World Reimagined` | Q2 2026 |
 | Enforcement Suite             | Expand takedown & licensing utilities        | Ongoing |
-| Docs Portal                   | Full GitBook-style documentation             | Q4 2025 |
 
 ---
 
