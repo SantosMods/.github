@@ -1,7 +1,7 @@
 <h1 align="center">SantosMods.dev</h1>
 
 <p align="center">
-  <strong>Stability isn’t a feature — it’s the foundation.</strong>
+  <strong>Stability comes first.</strong>
 </p>
 
 <p align="center">
@@ -20,70 +20,89 @@
 
 ## About
 
-**SantosMods.dev** creates Grand Theft Auto V modifications designed for a wide range of gameplay styles.
+**SantosMods.dev** develops Grand Theft Auto V modifications with a focus on stability, structure, and long-term usability.
+
+The goal is to create content that behaves consistently across different setups and can be used reliably over time, rather than quick or experimental releases.
 
 Our work supports:
 - Roleplay servers  
-- Freeroam gameplay  
-- Private servers and singleplayer use  
-
-We focus on clean design, stable behavior, and long-term usability across different environments.
-
----
-
-## What We Create
-
-- **YMAPs**  
-  Custom world locations, reworks, and environment enhancements.
-
-- **Basic scripting**  
-  Lightweight scripts designed to support map functionality and simple interactions.
-
-- **Textures**  
-  Select environmental and visual textures used to enhance realism and atmosphere.
-
-- **EUP (Planned)**  
-  Future releases will include Emergency Uniform Packs developed under controlled licensing.
+- Freeroam servers  
+- Private servers  
+- Singleplayer use  
 
 ---
 
-## Our Approach
+## What We Make
 
-- Designed to work across multiple server types  
-- Built with performance and compatibility in mind  
-- Released in standalone, easy-to-manage formats  
-- Structured for long-term use — not short-term testing  
+### YMAPs
+- Custom locations and environment reworks  
+- Layouts designed to work with existing game systems  
+- Careful prop usage to avoid unnecessary performance impact  
 
-We prioritize consistency and reliability over rushed content.
+### Scripts
+- Small, optional scripts used only where needed  
+- Intended to support map behavior or simple interactions  
+
+### Assets & Textures
+- Limited environmental assets and textures  
+- Used only when they improve clarity or consistency  
+
+### EUP (Planned)
+- Emergency Uniform Packs planned for future release  
+- Development and distribution will be controlled  
 
 ---
 
-## Featured Project
+## How We Work
 
-**UrbanPlus: World Reimagined**  
-A large-scale environment project focused on improving immersion while maintaining performance for all server styles.
+- Focus on stability over features  
+- Avoid unnecessary complexity  
+- Prefer standalone resources  
+- Structure content so it is easy to install, remove, or update  
+
+We prioritize reliability and predictability.
+
+---
+
+## UrbanPlus
+
+**UrbanPlus** is a long-term project focused on improving and expanding parts of the GTA V world while maintaining compatibility with common server setups.
+
+The project aims to:
+- Improve layouts and visual consistency  
+- Avoid breaking AI, traffic, or gameplay flow  
+- Remain optional and modular  
+
+---
+
+## Documentation
+
+Documentation is available at https://docs.santosmods.dev and covers:
+- Installation instructions  
+- Basic usage guidance  
+- Known limitations and notes  
 
 ---
 
 ## Roadmap
 
-| Objective | Description | Status |
-|--------|-------------|--------|
-| Documentation Hub | Centralized installation and usage guides | **Live** → https://docs.santosmods.dev |
-| UrbanPlus v1 | Non-Alpha Release | Q4 2026 |
-| EUP Development | Emergency Uniform Packs | Planned |
+| Item | Description | Status |
+|-----|-------------|--------|
+| Documentation | Central documentation site | **Live** |
+| UrbanPlus v1 | First public release | Planned |
+| EUP | Emergency Uniform Packs | Planned |
 
 ---
 
-## Usage & Distribution
+## Usage & Licensing
 
-- Redistribution, resale, or reuploads are not permitted without authorization  
-- All releases remain protected under SantosMods.dev licensing  
-- Violations may result in access removal or takedown requests  
+- Redistribution or resale is not allowed without permission  
+- All releases are licensed under SantosMods.dev terms  
+- Unauthorized distribution may result in access removal  
 
 ---
 
 <p align="center">
   <strong>SantosMods.dev</strong><br>
-  Built for variety. Designed to last.
+  Built to be stable and usable over time.
 </p>
