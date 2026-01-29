@@ -18,83 +18,72 @@
 
 ---
 
-## Overview
+## About
 
-**SantosMods.dev** is a policy-driven GTA V development organization focused on long-term stability, performance, and operational integrity.
+**SantosMods.dev** creates Grand Theft Auto V modifications designed for a wide range of gameplay styles.
 
-Our work is engineered for **serious roleplay ecosystems**, emphasizing preventative design, strict enforcement, and infrastructure-grade deployment standards.
+Our work supports:
+- Roleplay servers  
+- Freeroam gameplay  
+- Private servers and singleplayer use  
 
-We do not chase features — we ship **durable systems**.
+We focus on clean design, stable behavior, and long-term usability across different environments.
 
 ---
 
-## Core Focus Areas
+## What We Create
 
-- **Stability-first YMAP development**  
-  Optimized prop counts, clean navmeshes, and predictable streaming behavior.
+- **YMAPs**  
+  Custom world locations, reworks, and environment enhancements.
 
-- **Infrastructure-grade deployments**  
-  Ubuntu-based environments, Node.js services, Pterodactyl orchestration, and hardened pipelines.
+- **Basic scripting**  
+  Lightweight scripts designed to support map functionality and simple interactions.
 
-- **Internal tooling & enforcement systems**  
-  Licensing validation, abuse detection, and controlled distribution at scale.
+- **Textures**  
+  Select environmental and visual textures used to enhance realism and atmosphere.
 
-All releases are standalone, modular, and designed for **long-term server health**.
+- **EUP (Planned)**  
+  Future releases will include Emergency Uniform Packs developed under controlled licensing.
+
+---
+
+## Our Approach
+
+- Designed to work across multiple server types  
+- Built with performance and compatibility in mind  
+- Released in standalone, easy-to-manage formats  
+- Structured for long-term use — not short-term testing  
+
+We prioritize consistency and reliability over rushed content.
 
 ---
 
 ## Featured Project
 
-- **UrbanPlus: World Reimagined**  
-  A full-scale environmental overhaul built for realism, performance, and extensibility.
+**UrbanPlus: World Reimagined**  
+A large-scale environment project focused on improving immersion while maintaining performance for all server styles.
 
 ---
 
 ## Roadmap
 
 | Objective | Description | Status |
-|---------|-------------|--------|
-| Documentation Portal | Centralized, GitBook-style technical documentation | **Live** → https://docs.santosmods.dev |
-| UrbanPlus v1 | Public release of *UrbanPlus: World Reimagined* | Q2 2026 |
-| Enforcement Suite | Expanded licensing, takedown, and abuse mitigation tooling | Ongoing |
+|--------|-------------|--------|
+| Documentation Hub | Centralized installation and usage guides | **Live** → https://docs.santosmods.dev |
+| UrbanPlus v1 | Non-Alpha Release | Q4 2026 |
+| EUP Development | Emergency Uniform Packs | Planned |
 
 ---
 
-## Development Scope
+## Usage & Distribution
 
-<details>
-<summary><strong>Mapping (YMAP)</strong></summary>
-
-- High-performance static world design  
-- Modular layouts tailored for specific RP use cases  
-- Strict LOD, collision, and streaming discipline  
-
-</details>
-
-<details>
-<summary><strong>EUP Texturing (Experimental)</strong></summary>
-
-- Internal-use tactical and patrol textures  
-- Controlled, license-bound releases only  
-- No public redistribution without authorization  
-
-</details>
-
----
-
-## Policy & Enforcement
-
-- Redistribution, resale, reuploads, or derivative cloning are **strictly prohibited**
-- Enforcement actions include:
-  - GitHub DMCA takedowns  
-  - Discord-based reporting & verification  
-  - Domain, account, and access bans  
-- All assets undergo **internal review** prior to release
-- Confirmed violations are acted on within **24 hours**
+- Redistribution, resale, or reuploads are not permitted without authorization  
+- All releases remain protected under SantosMods.dev licensing  
+- Violations may result in access removal or takedown requests  
 
 ---
 
 <p align="center">
   <strong>SantosMods.dev</strong><br>
-  Built to last. Enforced to protect.
+  Built for variety. Designed to last.
 </p>
