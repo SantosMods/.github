@@ -1,4 +1,4 @@
-<h1 align="center">SantosMods.dev</h1>
+ <h1 align="center">SantosMods.dev</h1>
 
 <p align="center">
   <strong>Stability comes first.</strong>
@@ -11,9 +11,8 @@
 ---
 
 <p align="center">
-  <a href="https://store.santosmods.dev">Store</a> •
-  <a href="https://links.santosmods.dev/discord">Discord</a> •
-  <a href="https://docs.santosmods.dev">Documentation</a>
+  <a href="https://santosmods.dev">Store</a> •
+  <a href="https://santosmods.dev/discord">Discord</a>
 </p>
 
 ---
@@ -88,7 +87,7 @@ Documentation is available at https://docs.santosmods.dev and covers:
 
 | Item | Description | Status |
 |-----|-------------|--------|
-| Documentation | Central documentation site | **Live** |
+| Documentation | Central documentation site | Planned |
 | UrbanPlus v1 | First public release | Planned |
 | EUP | Emergency Uniform Packs | Planned |
 
