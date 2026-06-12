@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="https://santosmods.dev">Store</a> •
+  <a href="https://santosmods.dev">Website</a> •
   <a href="https://santosmods.dev/discord">Discord</a>
 </p>
 
@@ -27,7 +27,7 @@ Our work supports:
 - Roleplay servers  
 - Freeroam servers  
 - Private servers  
-- Singleplayer use  
+- Singleplayer use 
 
 ---
 
@@ -37,18 +37,6 @@ Our work supports:
 - Custom locations and environment reworks  
 - Layouts designed to work with existing game systems  
 - Careful prop usage to avoid unnecessary performance impact  
-
-### Scripts
-- Small, optional scripts used only where needed  
-- Intended to support map behavior or simple interactions  
-
-### Assets & Textures
-- Limited environmental assets and textures  
-- Used only when they improve clarity or consistency  
-
-### EUP (Planned)
-- Emergency Uniform Packs planned for future release  
-- Development and distribution will be controlled  
 
 ---
 
@@ -71,33 +59,6 @@ The project aims to:
 - Improve layouts and visual consistency  
 - Avoid breaking AI, traffic, or gameplay flow  
 - Remain optional and modular  
-
----
-
-## Documentation
-
-Documentation is available at https://docs.santosmods.dev and covers:
-- Installation instructions  
-- Basic usage guidance  
-- Known limitations and notes  
-
----
-
-## Roadmap
-
-| Item | Description | Status |
-|-----|-------------|--------|
-| Documentation | Central documentation site | Planned |
-| UrbanPlus v1 | First public release | Planned |
-| EUP | Emergency Uniform Packs | Planned |
-
----
-
-## Usage & Licensing
-
-- Redistribution or resale is not allowed without permission  
-- All releases are licensed under SantosMods.dev terms  
-- Unauthorized distribution may result in access removal  
 
 ---
 
