@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://santosmods.dev">Website</a> •
-  <a href="https://santosmods.dev/discord">Discord</a>
+  <a href="https://santosmods.dev/discord">Discord</a> •
+  <a href="https://docs.santosmods.dev">Docs</a>
 </p>
 
 ---
